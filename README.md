@@ -14,7 +14,7 @@
     git submodule init
     ```
 
-3. Fetch the data from the submodule to your local system (will take a very long time as it will clone 2GB of data; decide on whether it is necessary or not)
+3. Fetch the data from the submodule to your local system (will take a very long time as it will clone 2GB of data from COVID-19 and ; decide on whether it is necessary or not)
 
     ```shell
     git submodule update
