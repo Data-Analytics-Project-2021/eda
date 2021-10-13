@@ -25,3 +25,7 @@
     ```shell
     git clone --recurse-submodules https://<token>@github.com/Data-Analytics-Project-2021/eda
     ```
+
+## Data sourcing and cleaning
+
+Data sourcing and level 1 cleaning is performed in `aggregate_cases_vaccines.ipynb`
