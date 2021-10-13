@@ -28,4 +28,9 @@
 
 ## Data sourcing and cleaning
 
-Data sourcing and level 1 cleaning is performed in `aggregate_cases_vaccines.ipynb`
+- Data sourcing and level 1 cleaning is performed in `aggregate_cases_vaccines.ipynb`
+- After sourcing and cleaning, the four files obtained are
+  1. `india_cases_<last_source_date_dd-mm-yyyy>.csv` - state-wise daily COVID-19 cases in India
+  2. `india_vaccines_<last_source_date_dd-mm-yyyy>.csv` - state-wise daily COVID-19 vaccinations in India
+  3. `usa_cases_<last_source_date_dd-mm-yyyy>.csv` - state-wise daily COVID-19 cases in USA
+  4. `usa_vaccines_<last_source_date_dd-mm-yyyy>.csv` - state-wise daily COVID-19 vaccinations in USA
